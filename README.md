@@ -85,7 +85,6 @@ python src/main.py --input_image path/to/image.jpg
 **Pull requests are welcome!**  
 For major changes, please open an issue to discuss your ideas.
 
----
 
-🔗 **Created with passion by [@prajesdas](https://github.com/prajesdas) , @sukalyan chakraborty @monjima dey **
-```
+🔗 Created with passion by [@prajesdas](https://github.com/prajesdas) , @sukalyan chakraborty @monjima dey 
+
