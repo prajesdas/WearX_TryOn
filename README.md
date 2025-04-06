@@ -87,5 +87,5 @@ For major changes, please open an issue to discuss your ideas.
 
 ---
 
-🔗 **Created with passion by [@prajesdas](https://github.com/prajesdas)**
+🔗 **Created with passion by [@prajesdas](https://github.com/prajesdas) , @sukalyan chakraborty @monjima dey **
 ```
