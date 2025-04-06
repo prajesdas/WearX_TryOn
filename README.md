@@ -1,5 +1,5 @@
 
-# 💫 **WEARX TRYON** 💫  
+# 💫 **WEARX** 💫  
 **A Virtual Try-On System with Realistic 3D Cloth Draping**
 
 ---
