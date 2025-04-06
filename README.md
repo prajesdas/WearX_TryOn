@@ -29,15 +29,15 @@
 
 ```
 📦 WEARX_TRYON/
-┣ 📂 data/                ➤ **Datasets and Resources**
-┣ 📂 models/              ➤ **Pre-trained Models & Checkpoints**
-┣ 📂 src/                 ➤ **Source Code for Try-On Pipeline**
-┃ ┣ 📂 preprocessing/     ➤ **Image & Body Processing**
-┃ ┣ 📂 draping/           ➤ **Cloth Simulation Modules**
-┃ ┗ 📂 rendering/         ➤ **Final Output Rendering**
-┣ 📂 outputs/             ➤ **Generated Try-On Images**
-┣ 📜 requirements.txt     ➤ **Python Dependencies**
-┗ 📄 README.md            ➤ **Project Overview**
+┣ 📂 data/               
+┣ 📂 models/              
+┣ 📂 src/                 
+┃ ┣ 📂 preprocessing/     
+┃ ┣ 📂 draping/           
+┃ ┗ 📂 rendering/         
+┣ 📂 outputs/             
+┣ 📜 requirements.txt     
+┗ 📄 README.md            
 ```
 
 ---
