@@ -1,0 +1,8 @@
+setuptools>=69.0.3
+wheel>=0.45.1
+flask==3.0.2
+flask-cors==4.0.0
+opencv-python==4.5.5.64
+numpy==1.26.4
+Pillow==10.1.0
+mediapipe==0.10.21
