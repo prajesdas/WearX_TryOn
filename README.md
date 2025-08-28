@@ -1,90 +1,105 @@
+# WEARX
 
-#  **WEARX** 
-**A Virtual Try-On System with Realistic Cloth Draping**
-
----
-
-## 🔥 **FEATURES**
-
-- 🎯 **3D Body Modeling using SMPL**
-- 👕 **Realistic Cloth Draping on Human Body**
-- 🧠 **Deep Learning Integration for Cloth Behavior**
-- ⚡ **Fast & Interactive Try-On Experience**
-- 🛍️ **E-Commerce & AR Ready System**
+### A Virtual Try-On System with Realistic Cloth Draping
 
 ---
 
-## 🛠️ **TECHNOLOGIES USED**
+## Overview
 
-- 🐍 **Python**
-- 🔥 **PyTorch / TensorFlow**
-- 👁️ **OpenCV**
-- 🎨 **Blender / Marvelous Designer (Optional for Simulations)**
-- 🧍‍♂️ **SMPL Model**
-- 🌐 **Git + GitHub**
+WEARX is a **virtual try-on system** that combines **3D body modeling**, **realistic cloth draping**, and **deep learning** to create a fast, interactive, and visually accurate try-on experience. The system is designed for e-commerce and AR applications, offering a seamless and engaging user experience.
 
 ---
 
-## 📁 **PROJECT STRUCTURE**
+## Features
+
+* **3D Body Modeling** using SMPL for realistic human representation
+* **Advanced Cloth Draping** for natural garment fitting
+* **Deep Learning Integration** for enhanced cloth behavior and realism
+* **High-Performance Pipeline** for interactive virtual try-on
+* **E-Commerce & AR Ready** system for real-world applications
+
+---
+
+## Technologies Used
+
+* Python
+* PyTorch / TensorFlow
+* OpenCV
+* Blender / Marvelous Designer (Optional for advanced simulations)
+* SMPL Model
+* Git + GitHub
+
+---
+
+## Project Structure
 
 ```
-📦 WEARX_TRYON/
-┣ 📂 data/               
-┣ 📂 models/              
-┣ 📂 src/                 
-┃ ┣ 📂 preprocessing/     
-┃ ┣ 📂 draping/           
-┃ ┗ 📂 rendering/         
-┣ 📂 outputs/             
-┣ 📜 requirements.txt     
-┗ 📄 README.md            
+WEARX_TRYON/
+├── data/                # Data storage (raw, processed)
+├── models/              # Pre-trained and custom models
+├── src/                 # Source code
+│   ├── preprocessing/   # Data preparation modules
+│   ├── draping/         # Cloth simulation & fitting logic
+│   └── rendering/       # Visualization and output rendering
+├── outputs/             # Generated outputs
+├── requirements.txt     # Dependencies
+└── README.md            # Project documentation
 ```
 
 ---
 
-## 🚀 **GETTING STARTED**
+## Getting Started
 
-### 📥 **1. Clone the Repository**
+### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/prajesdas/WearX_TryOn.git
 cd WearX_TryOn
 ```
 
-### 🧱 **2. Set Up Environment**
+### 2. Set Up Environment
+
 ```bash
 python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
+source venv/bin/activate  # For Linux/Mac
+venv\Scripts\activate     # For Windows
 pip install -r requirements.txt
 ```
 
-### ▶️ **3. Run the Pipeline**
+### 3. Run the Pipeline
+
 ```bash
 python src/main.py --input_image path/to/image.jpg
 ```
 
 ---
 
-## 🖼️ **SAMPLE OUTPUT**
+## Sample Output
 
-
-
----
-
-## 📌 **TO-DO / FUTURE ROADMAP**
-
-- 🚀 **Augmented Reality (AR) Integration**
-- 👖 **Support for Additional Clothing Types**
-- 🧠 **GAN-Based Texture & Drape Refinement**
-- 🧵 **Custom Cloth Parameter Editor**
-- 🗃️ **Dataset Expansion with Annotated Pairs**
+*(Add images or GIFs of try-on results here)*
 
 ---
 
-## 🤝 **CONTRIBUTING**
+## Future Roadmap
 
-**Pull requests are welcome!**  
-For major changes, please open an issue to discuss your ideas.
+* Integration with Augmented Reality (AR) platforms
+* Support for additional clothing types and accessories
+* GAN-based texture and drape refinement
+* Custom cloth parameter editor for advanced customization
+* Dataset expansion with high-quality annotated pairs
 
+---
 
-🔗 Created with passion by [@prajesdas](https://github.com/prajesdas) , @sukalyan chakraborty @monjima dey 
+## Meet the Team
+
+<img width="1080" height="1350" alt="Team-Details" src="https://github.com/user-attachments/assets/00aefc63-9ddb-487a-8546-5887f438a94e" />
+
+---
+
+## Contributing
+
+Contributions are welcome!
+Please open an issue to discuss new features or improvements before submitting a pull request.
+
+---
 
