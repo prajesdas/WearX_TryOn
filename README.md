@@ -92,7 +92,7 @@ python src/main.py --input_image path/to/image.jpg
 
 ## Meet the Team
 
-<img width="1080" height="1350" alt="Team-Details" src="https://github.com/user-attachments/assets/00aefc63-9ddb-487a-8546-5887f438a94e" />
+<img width="1000" height="850" alt="Team-Details" src="https://github.com/user-attachments/assets/00aefc63-9ddb-487a-8546-5887f438a94e" />
 
 ---
 
